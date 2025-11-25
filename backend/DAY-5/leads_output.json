@@ -1,0 +1,22 @@
+{
+    "leads": [
+        {
+            "name": "Peter",
+            "email": "abc@gmail.com",
+            "company": "StyleBox",
+            "role": "Owner",
+            "use_case": "Online UPI payments",
+            "timeline": "Within 1 week",
+            "timestamp": "2025-11-25T23:43:35.534264"
+        },
+        {
+            "name": "Parker",
+            "email": "parker@gmail.com",
+            "company": "ModernStyles",
+            "role": "Owner",
+            "use_case": "Online clothing business",
+            "timeline": "1-2 weeks",
+            "timestamp": "2025-11-26T00:01:12.159665"
+        }
+    ]
+}

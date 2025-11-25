@@ -1,0 +1,27 @@
+{
+  "company_name": "Razorpay",
+  "business_description": "India's full-stack financial solutions company, providing payment gateway services, corporate banking solutions (RazorpayX), and lending (Razorpay Capital) to businesses.",
+  "target_audience": "All types of Indian businesses, including e-commerce, D2C brands, startups, and SMEs, who need to accept online payments, manage payroll, or access working capital.",
+  "faq_and_pricing": [
+    {
+      "category": "Product Core",
+      "keywords": ["product", "do", "what", "services"],
+      "answer": "Razorpay provides a full-stack platform for businesses to accept, process, and disburse digital payments. Our main products are the Payment Gateway and RazorpayX (Business Banking)."
+    },
+    {
+      "category": "Pricing - Free Tier",
+      "keywords": ["free", "cost", "tier", "setup"],
+      "answer": "We have a standard pricing model with **no setup or annual maintenance fees.** We only charge a transaction fee when you get paid."
+    },
+    {
+      "category": "Pricing - Standard Fee",
+      "keywords": ["price", "cost", "charge", "rate"],
+      "answer": "The standard platform fee for most domestic transactions (Cards, UPI, Netbanking, Wallets) is **1.75% per transaction** (plus applicable GST)."
+    },
+    {
+      "category": "Core Product 2",
+      "keywords": ["RazorpayX", "banking", "payroll"],
+      "answer": "RazorpayX is our business banking platform. It helps businesses manage money beyond payments—like automating payouts, handling payroll, and getting access to current accounts."
+    }
+  ]
+}
