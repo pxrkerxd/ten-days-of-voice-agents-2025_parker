@@ -1,0 +1,152 @@
+{
+  "groceries": [
+    {
+      "id": "G001",
+      "name": "Whole Wheat Bread",
+      "price": 65.00,
+      "unit": "loaf (400g)",
+      "tags": ["sandwich", "basic", "breakfast"]
+    },
+    {
+      "id": "G002",
+      "name": "White Eggs (Pack of 12)",
+      "price": 105.00,
+      "unit": "dozen",
+      "tags": ["basic", "breakfast", "omelette"]
+    },
+    {
+      "id": "G003",
+      "name": "Amul Fresh Milk (Full Cream)",
+      "price": 60.00,
+      "unit": "litre",
+      "tags": ["basic", "dairy", "tea-coffee"],
+      "options": ["full cream", "toned"]
+    },
+    {
+      "id": "G004",
+      "name": "Potato",
+      "price": 40.00,
+      "unit": "kilogram",
+      "tags": ["vegetable", "basic", "curry"]
+    },
+    {
+      "id": "G005",
+      "name": "Onion",
+      "price": 50.00,
+      "unit": "kilogram",
+      "tags": ["vegetable", "basic", "curry"]
+    },
+    {
+      "id": "G006",
+      "name": "Tomato",
+      "price": 65.00,
+      "unit": "kilogram",
+      "tags": ["vegetable", "basic", "curry"]
+    },
+    {
+      "id": "G007",
+      "name": "Aashirvaad Atta",
+      "price": 290.00,
+      "unit": "5 kg bag",
+      "tags": ["basic", "chapati", "staple"]
+    },
+    {
+      "id": "G008",
+      "name": "Sugar (White)",
+      "price": 55.00,
+      "unit": "kilogram",
+      "tags": ["basic", "baking", "sweet"]
+    },
+    {
+      "id": "G009",
+      "name": "Fresh Green Chillies",
+      "price": 30.00,
+      "unit": "100 grams",
+      "tags": ["spice", "garnish", "hot"]
+    },
+    {
+      "id": "G010",
+      "name": "Coriander Leaves (Dhania)",
+      "price": 25.00,
+      "unit": "bunch",
+      "tags": ["herb", "garnish", "fresh"]
+    }
+  ],
+  "pantry": [
+    {
+      "id": "T001",
+      "name": "Peanut Butter (Crunchy)",
+      "price": 180.00,
+      "unit": "jar (340g)",
+      "tags": ["sandwich", "basic", "spread"]
+    },
+    {
+      "id": "T002",
+      "name": "Tomato Pasta Sauce (Marinara)",
+      "price": 150.00,
+      "unit": "jar (400g)",
+      "tags": ["pasta", "italian"]
+    },
+    {
+      "id": "T003",
+      "name": "Dried Spaghetti Pasta",
+      "price": 95.00,
+      "unit": "packet (500g)",
+      "tags": ["pasta", "italian"]
+    },
+    {
+      "id": "T004",
+      "name": "Basmati Rice (Premium)",
+      "price": 120.00,
+      "unit": "kilogram",
+      "tags": ["biryani", "daily", "staple"]
+    },
+    {
+      "id": "T005",
+      "name": "Turmeric Powder (Haldi)",
+      "price": 90.00,
+      "unit": "100g packet",
+      "tags": ["spice", "curry", "basic"]
+    },
+    {
+      "id": "T006",
+      "name": "Rajma (Kidney Beans)",
+      "price": 110.00,
+      "unit": "500g packet",
+      "tags": ["pulses", "curry", "dinner"]
+    }
+  ],
+  "prepared_food": [
+    {
+      "id": "P001",
+      "name": "Margherita Pizza (Ready-to-Bake)",
+      "price": 320.00,
+      "unit": "each",
+      "tags": ["dinner", "italian", "frozen"],
+      "options": ["large", "medium"]
+    },
+    {
+      "id": "P002",
+      "name": "Vegetable Biryani",
+      "price": 280.00,
+      "unit": "serving",
+      "tags": ["lunch", "dinner", "indian", "spicy"]
+    },
+    {
+      "id": "P003",
+      "name": "Paneer (Fresh Cottage Cheese)",
+      "price": 210.00,
+      "unit": "500g block",
+      "tags": ["dairy", "curry", "vegetarian"]
+    }
+  ],
+  "snacks": [
+    {
+      "id": "S001",
+      "name": "Haldiram's Aloo Bhujia",
+      "price": 60.00,
+      "unit": "packet (150g)",
+      "tags": ["namkeen", "snack"]
+    }
+  ]
+}

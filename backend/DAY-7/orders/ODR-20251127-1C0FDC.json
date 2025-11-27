@@ -1,0 +1,68 @@
+{
+    "order_id": "ODR-20251127-1C0FDC",
+    "customer_name": "Carl Johnson",
+    "delivery_address": "Groove Street",
+    "order_timestamp": "2025-11-27T21:49:58.785479",
+    "status": "Placed",
+    "items": [
+        {
+            "id": "G001",
+            "name": "Whole Wheat Bread",
+            "price_per_unit": 65.0,
+            "quantity_ordered": 3.0,
+            "unit": "loaf (400g)",
+            "line_total": 195.0
+        },
+        {
+            "id": "G003",
+            "name": "Amul Fresh Milk (Full Cream)",
+            "price_per_unit": 60.0,
+            "quantity_ordered": 1.0,
+            "unit": "litre",
+            "line_total": 60.0
+        },
+        {
+            "id": "G004",
+            "name": "Potato",
+            "price_per_unit": 40.0,
+            "quantity_ordered": 2.0,
+            "unit": "kilogram",
+            "line_total": 80.0
+        },
+        {
+            "id": "G005",
+            "name": "Onion",
+            "price_per_unit": 50.0,
+            "quantity_ordered": 2.0,
+            "unit": "kilogram",
+            "line_total": 100.0
+        },
+        {
+            "id": "T001",
+            "name": "Peanut Butter (Crunchy)",
+            "price_per_unit": 180.0,
+            "quantity_ordered": 1,
+            "unit": "jar (340g)",
+            "line_total": 180.0
+        },
+        {
+            "id": "P001",
+            "name": "Margherita Pizza (Ready-to-Bake)",
+            "price_per_unit": 320.0,
+            "quantity_ordered": 2.0,
+            "unit": "each",
+            "line_total": 640.0
+        },
+        {
+            "id": "P002",
+            "name": "Vegetable Biryani",
+            "price_per_unit": 280.0,
+            "quantity_ordered": 1.0,
+            "unit": "serving",
+            "line_total": 280.0
+        }
+    ],
+    "subtotal": 1535.0,
+    "delivery_fee": 40.0,
+    "grand_total": 1575.0
+}
