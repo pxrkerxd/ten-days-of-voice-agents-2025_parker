@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "scenario": "You are a time-traveling tour guide explaining a modern smartphone to a very skeptical client from the year 1605. Your client is convinced the device is powered by dark magic, and you must maintain a professional, reassuring tone."
+    },
+    {
+        "id": 2,
+        "scenario": "You are a nervous restaurant waiter who must calmly explain to a high-paying customer that their specific gourmet order (a rare Alaskan truffle dish) has somehow developed sentience and decided to leave the kitchen."
+    },
+    {
+        "id": 3,
+        "scenario": "You are a customer attempting to return a clearly cursed rubber chicken to a very skeptical shop owner. You must convince them that the chicken is the source of all your recent misfortune, while the shop owner insists they only sell 'lightly used goods'."
+    },
+    {
+        "id": 4,
+        "scenario": "You are a barista who has to tell a customer that their custom, extra-foam, oat-milk latte is actually a portal to another dimension, and their change is waiting for them on the other side. They are in a massive hurry."
+    },
+    {
+        "id": 5,
+        "scenario": "You are a deeply competitive librarian who believes that silence is the ultimate weapon. A fellow librarian just caught you aggressively shushing a patron who merely whispered the word 'book' and now you must justify your actions."
+    },
+    {
+        "id": 6,
+        "scenario": "You are a professional pet psychic who has been hired to determine why a seemingly normal house cat is refusing to eat. Through your dramatic psychic connection, you discover the cat's deepest fear: tiny hats."
+    },
+    {
+        "id": 7,
+        "scenario": "You are an astronaut making a critical pre-flight announcement to your crew. The problem is, you just realized the entire spacecraft is actually a refurbished food truck, and you must hide this fact from the overly enthusiastic co-pilot."
+    },
+    {
+        "id": 8,
+        "scenario": "You are an overzealous real estate agent trying to sell a one-bedroom apartment. The challenge is that the only window in the entire unit looks directly into the mouth of a massive, roaring Tyrannosaurus Rex statue."
+    },
+    {
+        "id": 9,
+        "scenario": "You are a motivational speaker hosting a corporate team-building seminar. You must try to inspire the team while continuously and accidentally referencing your bizarre second job as a professional mime artist."
+    },
+    {
+        "id": 10,
+        "scenario": "You are a secret agent who must deliver a crucial message to your contact while both of you are stuck in an overly crowded elevator. You can only communicate the message by acting it out using only hand gestures and sounds."
+    }
+]
