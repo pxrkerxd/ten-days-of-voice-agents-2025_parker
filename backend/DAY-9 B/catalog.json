@@ -1,0 +1,134 @@
+[
+  {
+    "id": "W-ELEC-001",
+    "name": "onn. Wireless Speaker with LED Lights",
+    "description": "Affordable portable wireless speaker with a built-in rechargeable battery and fun LED light feature.",
+    "price": 39.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "sub_category": "Audio",
+    "attributes": {"color": ["Black", "Red", "Teal"]},
+    "stock": 1500
+  },
+  {
+    "id": "W-ELEC-002",
+    "name": "Roku Express HD Streaming Media Player",
+    "description": "Simple and fast streaming media player for accessing thousands of channels and apps.",
+    "price": 29.00,
+    "currency": "USD",
+    "category": "Electronics",
+    "sub_category": "Streaming Media",
+    "attributes": {"resolution": ["HD", "Full HD"], "connectivity": ["HDMI"]},
+    "stock": 2200
+  },
+  {
+    "id": "W-HOME-003",
+    "name": "Ninja 4-Quart Air Fryer",
+    "description": "Air Fryer that crisps with up to 75% less fat than traditional frying methods. 4-quart capacity.",
+    "price": 129.99,
+    "currency": "USD",
+    "category": "Home Appliances",
+    "sub_category": "Small Kitchen",
+    "attributes": {"capacity": ["4 Quart"], "color": ["Black"]},
+    "stock": 750
+  },
+  {
+    "id": "W-HOME-004",
+    "name": "Shark ION Robot Vacuum",
+    "description": "Wi-Fi connected robotic vacuum cleaner with powerful suction for pet hair and debris.",
+    "price": 179.00,
+    "currency": "USD",
+    "category": "Home Appliances",
+    "sub_category": "Cleaning",
+    "attributes": {"navigation": ["Smart Sensor"], "color": ["Gray"]},
+    "stock": 400
+  },
+  {
+    "id": "W-FASH-005",
+    "name": "George Men's Short Sleeve Polo Shirt",
+    "description": "Classic fit, cotton pique polo shirt. A comfortable everyday wardrobe essential from Walmart's own brand.",
+    "price": 12.96,
+    "currency": "USD",
+    "category": "Fashion/Clothes",
+    "sub_category": "Men's Apparel",
+    "attributes": {"color": ["Navy", "White", "Gray", "Red"], "size": ["S", "M", "L", "XL", "XXL"]},
+    "stock": 3500
+  },
+  {
+    "id": "W-FASH-006",
+    "name": "Athletic Works Women's Core Leggings",
+    "description": "Comfortable, high-waist athletic leggings with moisture-wicking technology, perfect for workouts.",
+    "price": 16.98,
+    "currency": "USD",
+    "category": "Fashion/Clothes",
+    "sub_category": "Activewear",
+    "attributes": {"color": ["Black", "Fuchsia"], "size": ["XS", "S", "M", "L"]},
+    "stock": 1100
+  },
+  {
+    "id": "W-FURN-007",
+    "name": "Spa Sensations by Zinus 14 Inch Bed Frame",
+    "description": "Heavy duty steel frame bed base, provides ample under-bed storage space.",
+    "price": 149.00,
+    "currency": "USD",
+    "category": "Furniture",
+    "sub_category": "Bedroom",
+    "attributes": {"size": ["Queen", "King"], "material": ["Steel"]},
+    "stock": 250
+  },
+  {
+    "id": "W-FURN-008",
+    "name": "Mainstays 5-Shelf Corner Bookshelf",
+    "description": "Practical and stylish 5-tier bookshelf perfect for maximizing space in any room.",
+    "price": 79.99,
+    "currency": "USD",
+    "category": "Furniture",
+    "sub_category": "Storage",
+    "attributes": {"style": ["Modern"], "height": ["68 inches"]},
+    "stock": 300
+  },
+  {
+    "id": "W-BOOK-009",
+    "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "description": "Global best-seller in self-help and personal development by James Clear.",
+    "price": 12.99,
+    "currency": "USD",
+    "category": "Books",
+    "sub_category": "Non-Fiction",
+    "attributes": {"format": ["Paperback", "Kindle", "Audible"], "author": ["James Clear"]},
+    "stock": 4000
+  },
+  {
+    "id": "W-TOY-010",
+    "name": "LEGO Classic Medium Creative Brick Box",
+    "description": "Basic set of LEGO bricks for open-ended creative play (484 pieces).",
+    "price": 34.99,
+    "currency": "USD",
+    "category": "Games, Sports & Toys",
+    "sub_category": "Toys",
+    "attributes": {"age_range": ["4+"], "pieces": ["484"]},
+    "stock": 800
+  },
+  {
+    "id": "W-SPORT-011",
+    "name": "Gaiam Premium Yoga Mat",
+    "description": "6mm thick non-slip yoga mat, popular for home and studio use.",
+    "price": 27.99,
+    "currency": "USD",
+    "category": "Games, Sports & Toys",
+    "sub_category": "Sports & Fitness",
+    "attributes": {"thickness": ["6mm"], "material": ["Non-toxic PVC"]},
+    "stock": 600
+  },
+  {
+    "id": "W-GAME-012",
+    "name": "Exploding Kittens Card Game",
+    "description": "Highly-rated, strategic kitty-powered version of Russian Roulette.",
+    "price": 19.99,
+    "currency": "USD",
+    "category": "Games, Sports & Toys",
+    "sub_category": "Games",
+    "attributes": {"players": ["2-5"], "play_time": ["15 mins"]},
+    "stock": 1200
+  }
+]
